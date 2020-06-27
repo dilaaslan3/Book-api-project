@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../.cache/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$/../.cache/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_BookApiProject.-2020710330.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BookApiProject" t="IncludeRecursive">
+        <e p="BookApiProject.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Author.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+          <e p="BookAuthor.cs" t="Include" />
+          <e p="BookCategory.cs" t="Include" />
+          <e p="Category.cs" t="Include" />
+          <e p="Country.cs" t="Include" />
+          <e p="Review.cs" t="Include" />
+          <e p="Reviewer.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BookDbContext.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="BookApiProject.AssemblyInfo.cs" t="Include" />
+              <e p="BookApiProject.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BookApiProject.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

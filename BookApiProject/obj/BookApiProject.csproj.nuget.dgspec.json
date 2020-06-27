@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilaa\\source\\repos\\BookApiProject\\BookApiProject\\BookApiProject.csproj": {}
+    "/home/dilaaslan/Book-api-project/BookApiProject/BookApiProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilaa\\source\\repos\\BookApiProject\\BookApiProject\\BookApiProject.csproj": {
+    "/home/dilaaslan/Book-api-project/BookApiProject/BookApiProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilaa\\source\\repos\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
+        "projectUniqueName": "/home/dilaaslan/Book-api-project/BookApiProject/BookApiProject.csproj",
         "projectName": "BookApiProject",
-        "projectPath": "C:\\Users\\dilaa\\source\\repos\\BookApiProject\\BookApiProject\\BookApiProject.csproj",
-        "packagesPath": "C:\\Users\\dilaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilaa\\source\\repos\\BookApiProject\\BookApiProject\\obj\\",
+        "projectPath": "/home/dilaaslan/Book-api-project/BookApiProject/BookApiProject.csproj",
+        "packagesPath": "/home/dilaaslan/.nuget/packages/",
+        "outputPath": "/home/dilaaslan/Book-api-project/BookApiProject/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dilaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/dilaaslan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,10 +56,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
